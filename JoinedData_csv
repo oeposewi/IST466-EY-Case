@@ -1,0 +1,139 @@
+,City,Airport,Carrier,Month,dep_delay,CarrierID,No_of_Flights
+0,Boston,BOS,American,7,38217,14F,2298
+1,Boston,BOS,United,7,24925,56Q,1140
+2,Boston,BOS,Southwest,7,22814,WN3,1191
+3,Boston,BOS,American,8,25785,14F,2378
+4,Boston,BOS,United,8,18116,56Q,1186
+5,Boston,BOS,Southwest,8,17002,WN3,1172
+6,Boston,BOS,American,9,19001,14F,2127
+7,Boston,BOS,United,9,13020,56Q,1100
+8,Boston,BOS,Southwest,9,12955,WN3,1070
+9,Boston,BOS,American,10,22281,14F,2281
+10,Boston,BOS,United,10,17114,56Q,1185
+11,Boston,BOS,Southwest,10,11170,WN3,1044
+12,Boston,BOS,American,11,13726,14F,2089
+13,Boston,BOS,United,11,7609,56Q,1033
+14,Boston,BOS,Southwest,11,8084,WN3,994
+15,Boston,BOS,American,12,20283,14F,2019
+16,Boston,BOS,United,12,11899,56Q,994
+17,Boston,BOS,Southwest,12,10455,WN3,948
+18,Charlotte,CLT,American,7,151881,14F,8276
+19,Charlotte,CLT,United,7,2332,56Q,166
+20,Charlotte,CLT,Southwest,7,4815,WN3,236
+21,Charlotte,CLT,American,8,96007,14F,8400
+22,Charlotte,CLT,United,8,1899,56Q,174
+23,Charlotte,CLT,Southwest,8,3329,WN3,242
+24,Charlotte,CLT,American,9,54854,14F,8065
+25,Charlotte,CLT,United,9,565,56Q,96
+26,Charlotte,CLT,Southwest,9,1034,WN3,232
+27,Charlotte,CLT,American,10,68643,14F,8349
+28,Charlotte,CLT,United,10,452,56Q,85
+29,Charlotte,CLT,Southwest,10,1805,WN3,238
+30,Charlotte,CLT,American,11,39659,14F,7729
+31,Charlotte,CLT,United,11,1102,56Q,87
+32,Charlotte,CLT,Southwest,11,1742,WN3,231
+33,Charlotte,CLT,American,12,63382,14F,7849
+34,Charlotte,CLT,United,12,1179,56Q,103
+35,Charlotte,CLT,Southwest,12,2540,WN3,231
+36,Chicago,ORD,American,7,125296,14F,5766
+37,Chicago,ORD,United,7,158859,56Q,7015
+38,Chicago,ORD,American,8,83869,14F,5881
+39,Chicago,ORD,United,8,104779,56Q,7160
+40,Chicago,ORD,American,9,50504,14F,5469
+41,Chicago,ORD,United,9,51379,56Q,6916
+42,Chicago,ORD,American,10,53374,14F,5596
+43,Chicago,ORD,United,10,64220,56Q,6968
+44,Chicago,ORD,American,11,37728,14F,5051
+45,Chicago,ORD,United,11,40116,56Q,5824
+46,Chicago,ORD,American,12,71932,14F,5399
+47,Chicago,ORD,United,12,64947,56Q,5640
+48,Los Angeles,LAX,American,7,60020,14F,3651
+49,Los Angeles,LAX,United,7,24223,56Q,2495
+50,Los Angeles,LAX,Southwest,7,57133,WN3,3635
+51,Los Angeles,LAX,American,8,46957,14F,3565
+52,Los Angeles,LAX,United,8,25341,56Q,2574
+53,Los Angeles,LAX,Southwest,8,79989,WN3,3710
+54,Los Angeles,LAX,American,9,21951,14F,3037
+55,Los Angeles,LAX,United,9,11876,56Q,2184
+56,Los Angeles,LAX,Southwest,9,40984,WN3,3443
+57,Los Angeles,LAX,American,10,28001,14F,3169
+58,Los Angeles,LAX,United,10,21024,56Q,2306
+59,Los Angeles,LAX,Southwest,10,47446,WN3,3644
+60,Los Angeles,LAX,American,11,28347,14F,2936
+61,Los Angeles,LAX,United,11,14737,56Q,2197
+62,Los Angeles,LAX,Southwest,11,36585,WN3,3495
+63,Los Angeles,LAX,American,12,39717,14F,3246
+64,Los Angeles,LAX,United,12,16199,56Q,2358
+65,Los Angeles,LAX,Southwest,12,33927,WN3,3431
+66,New York,LGA,American,7,28003,14F,1862
+67,New York,LGA,United,7,16373,56Q,745
+68,New York,LGA,Southwest,7,19264,WN3,957
+69,New York,LGA,American,8,24952,14F,1949
+70,New York,LGA,United,8,16298,56Q,788
+71,New York,LGA,Southwest,8,14811,WN3,949
+72,New York,LGA,American,9,12864,14F,1866
+73,New York,LGA,United,9,4099,56Q,772
+74,New York,LGA,Southwest,9,7861,WN3,899
+75,New York,LGA,American,10,18877,14F,2033
+76,New York,LGA,United,10,10661,56Q,837
+77,New York,LGA,Southwest,10,10475,WN3,936
+78,New York,LGA,American,11,9622,14F,1767
+79,New York,LGA,United,11,2283,56Q,770
+80,New York,LGA,Southwest,11,10408,WN3,910
+81,New York,LGA,American,12,26367,14F,1733
+82,New York,LGA,United,12,6871,56Q,736
+83,New York,LGA,Southwest,12,18618,WN3,927
+84,Newark,EWR,American,7,13382,14F,669
+85,Newark,EWR,United,7,110983,56Q,4647
+86,Newark,EWR,Southwest,7,17915,WN3,634
+87,Newark,EWR,American,8,8544,14F,695
+88,Newark,EWR,United,8,90257,56Q,4775
+89,Newark,EWR,Southwest,8,12841,WN3,609
+90,Newark,EWR,American,9,3810,14F,609
+91,Newark,EWR,United,9,48659,56Q,4317
+92,Newark,EWR,Southwest,9,8746,WN3,499
+93,Newark,EWR,American,10,4303,14F,640
+94,Newark,EWR,United,10,52934,56Q,4654
+95,Newark,EWR,Southwest,10,6201,WN3,545
+96,Newark,EWR,American,11,4642,14F,592
+97,Newark,EWR,United,11,51907,56Q,4622
+98,Newark,EWR,Southwest,11,8629,WN3,541
+99,Newark,EWR,American,12,7507,14F,676
+100,Newark,EWR,United,12,69055,56Q,4772
+101,Newark,EWR,Southwest,12,11418,WN3,530
+102,Seattle,SEA,American,7,10223,14F,978
+103,Seattle,SEA,United,7,7787,56Q,990
+104,Seattle,SEA,Southwest,7,13842,WN3,1263
+105,Seattle,SEA,American,8,8219,14F,951
+106,Seattle,SEA,United,8,15018,56Q,1068
+107,Seattle,SEA,Southwest,8,21401,WN3,1298
+108,Seattle,SEA,American,9,3632,14F,762
+109,Seattle,SEA,United,9,4094,56Q,894
+110,Seattle,SEA,Southwest,9,10504,WN3,1065
+111,Seattle,SEA,American,10,5518,14F,733
+112,Seattle,SEA,United,10,9497,56Q,892
+113,Seattle,SEA,Southwest,10,9656,WN3,1041
+114,Seattle,SEA,American,11,9349,14F,621
+115,Seattle,SEA,United,11,10194,56Q,826
+116,Seattle,SEA,Southwest,11,11820,WN3,994
+117,Seattle,SEA,American,12,6714,14F,713
+118,Seattle,SEA,United,12,7560,56Q,833
+119,Seattle,SEA,Southwest,12,13616,WN3,965
+120,Washington,DCA,American,7,39012,14F,2163
+121,Washington,DCA,United,7,7459,56Q,417
+122,Washington,DCA,Southwest,7,21232,WN3,1282
+123,Washington,DCA,American,8,27035,14F,2222
+124,Washington,DCA,United,8,4359,56Q,464
+125,Washington,DCA,Southwest,8,16905,WN3,1286
+126,Washington,DCA,American,9,16647,14F,2040
+127,Washington,DCA,United,9,2522,56Q,450
+128,Washington,DCA,Southwest,9,11698,WN3,1240
+129,Washington,DCA,American,10,14764,14F,2050
+130,Washington,DCA,United,10,2002,56Q,490
+131,Washington,DCA,Southwest,10,13712,WN3,1286
+132,Washington,DCA,American,11,14459,14F,1919
+133,Washington,DCA,United,11,3086,56Q,499
+134,Washington,DCA,Southwest,11,12025,WN3,1227
+135,Washington,DCA,American,12,18268,14F,1909
+136,Washington,DCA,United,12,2092,56Q,403
+137,Washington,DCA,Southwest,12,14080,WN3,1265
